@@ -1,5 +1,5 @@
 💫 About Me:
-NOAH DCRUZE 👋<br><br>### 🎓 Education & Certifications<br>* **MCA in AI/ML** (Master of Computer Applications)<br>* **MBA in Project Management**<br>* **IBM Data Science Professional Certificate**<br>* **Google Project Management Professional Certificate**<br><br><br>* 🔭 **Scalable Data Science:** Developing predictive models and deep learning architectures.<br>* 🌱 Business Strategy: Optimising Agile frameworks and AI-driven ROI for stakeholders.<br>* 💬 **Consulting:** Bridging the gap between engineering teams and business goals.<br><br>
+NOAH DCRUZE 👋<br><br>🎓 Education & Certifications<br>* Master of Computer Applications in AI/Data science<br>MBA in Project Management<br>IBM Data Science Professional Certificate<br>Google Project Management Professional Certificate**<br><br><br>* 🔭 **Scalable Data Science:** Developing predictive models and deep learning architectures.<br>* 🌱 Business Strategy: Optimising Agile frameworks and AI-driven ROI for stakeholders.<br> 💬 Consulting: Bridging the gap between engineering teams and business goals.<br><br>
 
 
 🌐 Socials:
@@ -12,7 +12,7 @@ NOAH DCRUZE 👋<br><br>### 🎓 Education & Certifications<br>* **MCA in AI/ML*
 ![](https://nirzak-streak-stats.vercel.app/?user=NOAH-DCRUZE100&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NOAH-DCRUZE100&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
+🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=NOAH-DCRUZE100&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---

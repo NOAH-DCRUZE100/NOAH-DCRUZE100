@@ -1,4 +1,4 @@
-💫 About Me:
+ 💫 About Me:
 
 NOAH DCRUZE 👋<br><br>🎓 Education & Certifications<br>Master of Computer Applications in AI/Data science<br>MBA in Project Management<br>IBM Data Science Professional Certificate<br>Google Project Management Professional Certificate**<br><br><br>* 🔭 **Scalable Data Science:** Developing predictive models and deep learning architectures.<br>* 🌱 Business Strategy: Optimising Agile frameworks and AI-driven ROI for stakeholders.<br> 💬 Consulting: Bridging the gap between engineering teams and business goals.<br><br>
 

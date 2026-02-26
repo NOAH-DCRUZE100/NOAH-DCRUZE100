@@ -4,12 +4,9 @@ NOAH DCRUZE 👋<br><br>🎓 Education & Certifications<br>Master of Computer Ap
 
 
 
-
-
 🌐 Socials:
 
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:noahdcruze@gmail.com) 
-
 
 
 💻 Tech Stack:<br><hr>
